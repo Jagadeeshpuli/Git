@@ -1,2 +1,2 @@
 # Remote Git
-Hi this is main barnch
+Hi, this is main branch.
